@@ -1,0 +1,5 @@
+Rami,0
+rami,0
+rAmi,0
+raMi,0
+ramI,0
